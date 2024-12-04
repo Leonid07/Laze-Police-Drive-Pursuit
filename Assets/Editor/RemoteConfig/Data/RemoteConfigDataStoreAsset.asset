@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"fd58099a-2783-448e-bc2c-9d6c10471794\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"bonusTime\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"12.12.2024\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"1d6ea82b-077e-44ae-906c-0d1af03acd48\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"gameConfig\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"com.eva.l4z3p0l1c\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"cbed8c39-3305-4207-a0f6-4b1e73fd43cd\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"isChange\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"0bfff097-4213-4c71-be26-75c4ae194f86\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"isGameOver\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"f80274c1-5c9b-432e-8fe3-775042b3e25b\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"localization\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"https://www.google.com/maps\"\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"fd58099a-2783-448e-bc2c-9d6c10471794\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"bonusTime\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"12.12.2024\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"1d6ea82b-077e-44ae-906c-0d1af03acd48\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"gameConfig\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"com.eva.l4z3p0l1c\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"cbed8c39-3305-4207-a0f6-4b1e73fd43cd\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"isChange\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"0bfff097-4213-4c71-be26-75c4ae194f86\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"isGameOver\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"f80274c1-5c9b-432e-8fe3-775042b3e25b\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"localization\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"https://www.google.com/maps\"\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"28292eb8-0c71-458c-9c2c-1bd3ac88314c\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"41b61b7c-05ed-4d12-9b4d-601da8294a90\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2024-10-23T10:16:54Z\",\r\n    \"updatedAt\":
+    \"2024-10-23T10:16:54Z\"\r\n  }\r\n]"
